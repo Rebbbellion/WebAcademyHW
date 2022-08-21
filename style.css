@@ -33,11 +33,11 @@ ol[class]
 /*
 4. В разделе "Огород" список фруктов должен быть серым, а овощей зеленым.
 */
-#allotment ul li .fruits-list
+#allotment ol.fruits-list
 {
   color: gray;  
 }
-#allotment ul li .vegetables-list
+#allotment ol.vegetables-list
 {
   color: green;
 }
@@ -45,11 +45,11 @@ ol[class]
 /*
 5. В разделе "Склад" список фруктов должен быть оранжевым, а овощей коричневым.
 */
-#warehouse ul li .fruits-list
+#warehouse ol.fruits-list
 {
   color: orange;  
 }
-#warehouse ul li .vegetables-list
+#warehouse ol.vegetables-list
 {
   color: brown;
 }
