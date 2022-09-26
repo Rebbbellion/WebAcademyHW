@@ -79,6 +79,8 @@ th {
 /*-----Reset Style-----*/
 body {
   font-family: "Roboto";
+  min-width: 1250px;
+  min-height:600px;
 }
 
 .calendar {
